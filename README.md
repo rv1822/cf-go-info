@@ -3,15 +3,19 @@ Go program for clound foundry
 The source code must be in 'src' folder
 
 * Building 
+
 need godep
+
 `
  go get github.com/kr/godep
 `
+
 and save your dependencies
 `
 godep save
 `
 
-*Launching
+
+* Launching
 set PORT=9000
 go run main.go
