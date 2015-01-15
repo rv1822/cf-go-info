@@ -4,4 +4,4 @@ go:
   - 1.2
 #install:
 #  - go get github.com/bmizerany/assert
-test: travis encrypt --add Q64pivotal
+script: travis encrypt --add Q64pivotal
