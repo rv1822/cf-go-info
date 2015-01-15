@@ -8,7 +8,8 @@ deploy:
    edge: true
    provider: cloudfoundry
    username: julien.landure@gmail.com
-   password: JtiwzBt3eFL5rT3tGtpRYWEKlkS8QRCUSBebITxtOQDjMI1oPOaqZu6N5Dfl6bvuRJnv2eShTFmnvIdBpvsZEpf4y6BzRiskhNjQZKSOFUnudgztgMiOjbP1yaDSJYdXLtAnPG9OYzO0NCCjllf09ruTarRlSnhEkSk+Umrmvi8=
+   password:                                                                                                                                                                                                                                          
+    secure: JtiwzBt3eFL5rT3tGtpRYWEKlkS8QRCUSBebITxtOQDjMI1oPOaqZu6N5Dfl6bvuRJnv2eShTFmnvIdBpvsZEpf4y6BzRiskhNjQZKSOFUnudgztgMiOjbP1yaDSJYdXLtAnPG9OYzO0NCCjllf09ruTarRlSnhEkSk+Umrmvi8= 
    api: https://api.run.pivotal.io
    organization: zenika
    space: development
