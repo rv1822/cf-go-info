@@ -1,4 +1,4 @@
-# Go program for clound foundry
+# Go program for clound foundry [![Build Status](https://travis-ci.org/jlandure/cf-go-info.svg)](https://travis-ci.org/jlandure/cf-go-info)
 
 The source code must be in 'src' folder
 
