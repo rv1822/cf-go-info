@@ -1,8 +1,8 @@
-Go program for clound foundry
+# Go program for clound foundry
 
 The source code must be in 'src' folder
 
-* Building 
+## Building 
 
 need godep
 
@@ -16,10 +16,10 @@ godep save
 `
 
 
-* Launching
+## Launching
 set PORT=9000
 go run main.go
 
-* Deploying
+## Deploying
 
 cf push cf-info-go -m 10M
