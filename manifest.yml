@@ -1,0 +1,5 @@
+applications:
+- name: cf-go-info
+  memory: 10M
+  # Currently defaults to PWS
+  domain: cfapps.io
