@@ -19,3 +19,7 @@ godep save
 * Launching
 set PORT=9000
 go run main.go
+
+* Deploying
+
+cf push cf-info-go -m 10M
