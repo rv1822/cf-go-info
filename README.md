@@ -5,7 +5,7 @@ The source code must be in 'src' folder
 ## Building 
 
 need godep
-
+ghg
 `
  go get github.com/kr/godep
 `
