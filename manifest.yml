@@ -3,3 +3,4 @@ applications:
   memory: 10M
   # Currently defaults to PWS
   domain: cfapps.io
+  instance: 1
