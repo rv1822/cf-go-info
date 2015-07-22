@@ -4,6 +4,7 @@ go:
   - 1.2
 #install:
 #  - go get github.com/bmizerany/assert
+sudo: required
 deploy:
    edge: true
    provider: cloudfoundry
@@ -12,3 +13,4 @@ deploy:
    api: https://api.run.pivotal.io
    organization: cfrv
    space: development
+   
