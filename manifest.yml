@@ -1,5 +1,5 @@
 applications:
-- name: cf-go-info
+- name: travisrv
   memory: 10M
   # Currently defaults to PWS
   domain: cfapps.io
