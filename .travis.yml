@@ -11,6 +11,6 @@ deploy:
    username: h.rooy@sap.com
    password: rvpivotal*                                                                                                                                                                                                                                         
    api: https://api.run.pivotal.io
-   organization: cfrv
+   organization: cfrv.org
    space: development
    
